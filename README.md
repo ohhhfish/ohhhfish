@@ -12,12 +12,13 @@ I’m a passionate Web Developer based in Shanghai, China. Currently, I’m a st
 ## 🌱 Currently Learning
 - Go (Golang)
 - TypeScript
+- Rust
 
 ## 🧑‍💻 Skills
-- **Frontend**: CSS, JS, HTML, TypeScript
-- **Backend**: PHP, Go, Node.js
+- **Frontend**: CSS, JS, HTML, JavaScript
+- **Backend**: PHP, Go, Node.js, Python
 - **FrameWork**: Vue.js, Nuxt.js, Tailwindcss, Webman, Workerman
-- **SoftWare**: Mysql, Redis, JetBrains App, Vscode
+- **SoftWare**: Mysql, Redis, JetBrains App, Vscode, Cursor
 
 ## 📫 How to Reach Me  
 Feel free to reach out via email: [thisisafisha@gmail.com](mailto:thisisafisha@gmail.com).
