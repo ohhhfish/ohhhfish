@@ -21,7 +21,7 @@ I’m a passionate Web Developer based in Shanghai, China. Currently, I’m a st
 - **SoftWare**: Mysql, Redis, JetBrains App, Vscode, Cursor
 
 ## 📫 How to Reach Me  
-Feel free to reach out via email: [thisisafisha@gmail.com](mailto:thisisafisha@gmail.com).
+Feel free to reach out via email: [dGhpc2lzYWZpc2hhQGdtYWlsLmNvbQ==](mailto:dGhpc2lzYWZpc2hhQGdtYWlsLmNvbQ==).
 
 ---  
 
