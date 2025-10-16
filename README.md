@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile! You can call me Fish—yes, you read that right. My username is Fish, but my avatar is a cat! 😂  
 
-I’m a passionate Web Developer based in Shanghai, China. Currently, I’m a student at a vocational school, focusing on web development. I’m learning Go and TypeScript to deepen my knowledge and skills in backend and full-stack development.
+I’m a passionate Web Developer based in Shanghai, China. I’m currently studying at a secondary vocational school, specializing in web development. I’m learning Go and TypeScript to strengthen my skills in backend and full-stack development.
+
+My Blog: [https://blog.ohfish.top/](https://blog.ohfish.top/)
 
 ## 👀 Interests
 - Web Development
