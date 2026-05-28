@@ -4,7 +4,7 @@ Welcome to my GitHub profile! You can call me Fish—yes, you read that right. M
 
 I’m a passionate Web Developer based in Shanghai, China. I’m currently studying at a secondary vocational school, specializing in web development. I’m learning Go and TypeScript to strengthen my skills in backend and full-stack development.
 
-My Blog: [https://blog.ohfish.top/](https://blog.ohfish.top/)
+My Blog: [https://ohfish.top/](https://ohfish.top/)
 
 ## 👀 Interests
 - Web Development
